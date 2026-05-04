@@ -11,4 +11,4 @@ Hasil analisis menunjukkan bahwa emisi CO₂ dan GRK terus meningkat, sementara 
 Proyek ini juga menghasilkan dashboard interaktif untuk memvisualisasikan data dan insight, serta memberikan rekomendasi strategis seperti integrasi pendidikan lingkungan, pengembangan energi terbarukan, dan pengelolaan sampah yang lebih baik.
 
 Simak selengkapnya dashboard kami di sini:
-https://lnkd.in/g99tmnVF
+https://datastudio.google.com/u/0/reporting/31c4fb2b-accd-4653-8481-1df790768e2d/page/uwTSE
