@@ -2,19 +2,13 @@
 
 # 🌍 Pendidikan: Fondasi untuk Masa Depan Berkelanjutan 📚
 
-Saya dengan senang hati membagikan Proyek Akhir dari Data Science Track di Startup Campus, berjudul "Pendidikan sebagai Fondasi Keberlanjutan". 
-Melalui Proyek Akhir ini saya mengeksplorasi bagaimana pendidikan dapat menjadi kunci dalam mengatasi tantangan ini. Dengan analisis tren HDI, emisi CO₂, dan GRK menggunakan metode time-series, kami menawarkan wawasan dan solusi yang dapat mendorong pembangunan berkelanjutan.
+Proyek akhir berjudul “Pendidikan sebagai Fondasi Keberlanjutan” berfokus pada analisis hubungan antara pendidikan dan isu lingkungan di Indonesia menggunakan data HDI, emisi CO₂, dan emisi gas rumah kaca (GRK).
 
-🌱 Saatnya kita bertindak! Tingkatkan kesadaran, tanamkan ide, dan ciptakan solusi untuk masa depan yang lebih hijau.
+Analisis dilakukan dengan metode time-series untuk mengidentifikasi tren historis dan memprediksi kondisi hingga tahun 2030 menggunakan model seperti ARIMA, FB Prophet, dan Double Exponential Smoothing.
 
-💡 "Hijaukan Pikiran, Selamatkan Masa Depan."
+Hasil analisis menunjukkan bahwa emisi CO₂ dan GRK terus meningkat, sementara peningkatan HDI berpotensi terhambat oleh masalah lingkungan. Oleh karena itu, proyek ini menekankan bahwa pendidikan berperan penting sebagai solusi utama dalam meningkatkan kesadaran lingkungan dan mendorong pembangunan berkelanjutan.
 
-✨ Selain memberikan solusi, perjalanan ini juga memperkuat keterampilan saya dalam:
-- Exploratory Data Analysis (EDA)
-- Modeling Machine Learning
-- Pembuatan Dashboard dengan Looker Studio
-- Manajemen Waktu
-
+Proyek ini juga menghasilkan dashboard interaktif untuk memvisualisasikan data dan insight, serta memberikan rekomendasi strategis seperti integrasi pendidikan lingkungan, pengembangan energi terbarukan, dan pengelolaan sampah yang lebih baik.
 
 Simak selengkapnya dashboard kami di sini:
 https://lnkd.in/g99tmnVF
